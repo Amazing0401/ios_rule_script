@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-24 02:06:58
+# UPDATED: 2022-12-25 02:07:19
 # DOMAIN: 14577
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77496
+# DOMAIN-SUFFIX: 77695
 # IP-CIDR: 238
-# TOTAL: 92388
+# TOTAL: 92587
 payload:
   - DOMAIN-KEYWORD,112wan
   - DOMAIN-KEYWORD,789htbet
